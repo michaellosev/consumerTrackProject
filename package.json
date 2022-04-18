@@ -1,0 +1,16 @@
+{
+  "name": "consumertrackproject",
+  "version": "1.0.0",
+  "description": "take home project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Losev",
+  "license": "ISC",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^3.4.0",
+    "dotenv": "^16.0.0",
+    "ua-parser-js": "^1.0.2"
+  }
+}
